@@ -3,6 +3,13 @@
 ```
 
 ```bash
+  My name is : Ankit Raj
+  AND TECHNOLOGIES I AM INTERESTED IN :
+  WEB DEVELOPMENT
+  ANDROID DEVELOPMENT
+```
+
+```bash
   my name is Rohan Kumar.
   I am interseted in
   machine learnig
